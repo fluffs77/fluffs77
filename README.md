@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @fluffs77
-- 👀 I’m interested in art, music, cats, and discord bots.
-- 🌱 I’m currently a student learning Java and Python
-- 📫 How to reach me:
+
   art: https://deviantart.com/fluffs77
   email: meowrielin@gmail.com
   cat pics: (Instagram) @fluffy_kitty7
